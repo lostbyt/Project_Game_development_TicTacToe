@@ -1,7 +1,7 @@
 # Project_Game_development_TicTacToe
 
 **Developer:** Emmanuel Moulun <br>
-**Project Type:** Codecademy project www.codecademy.com
+**Project Type:** Codecademy project - www.codecademy.com
 
 ### Description
 This study project aims to build a Tic-Tac-Toe game in C++. It was done during a learning course.
