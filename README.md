@@ -10,5 +10,5 @@ working with vectors, and implementing a graphical representation of the game bo
 ### Technologie:
 C++
 
-![Image](https://github.com/lostbyt/Project_Game_development_TicTacToe/blob/main/CaptureGame.JPG)
+![Image](https://github.com/lostbyt/Project_Game_development_TicTacToe/blob/main/images/CaptureGame.JPG)
 
