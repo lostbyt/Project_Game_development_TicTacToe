@@ -4,8 +4,8 @@
 **Project Type:** Codecademy project - www.codecademy.com
 
 ### Description
-This study project aims to build a Tic-Tac-Toe game in C++. It was done during a learning course.
-The goal is to manage conditionals, vectors and graphic representation of the board.
+This study project aims to create a Tic-Tac-Toe game in C++. It was undertaken as part of a learning course with the objective of mastering conditionals,
+working with vectors, and implementing a graphical representation of the game board.
 
 ### Technologie:
 C++
