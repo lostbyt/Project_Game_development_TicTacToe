@@ -9,5 +9,5 @@ The goal is to manage conditionals, vectors and graphic representation of the bo
 **Developer:** Emmanuel Moulun
 **Project Type:** Codecademy project
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/capture01.PNG)
+![Image](https://github.com/lostbyt/Project_Game_development_TicTacToe/blob/main/CaptureGame.JPG)
 
